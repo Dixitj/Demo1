@@ -34,9 +34,7 @@ public class HomePage extends AppCompatActivity {
         });
 
 
-
         // Event to perform Binary Search
-
         binding.searchbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -62,6 +60,15 @@ public class HomePage extends AppCompatActivity {
 
 
     }
+
+
+
+
+
+
+
+
+
 
    private void addButtonHandler(){
 
@@ -103,6 +110,7 @@ public class HomePage extends AppCompatActivity {
                     , Toast.LENGTH_LONG).show();
 
         }
+
 
     private void primeScreenSwitch(){
 

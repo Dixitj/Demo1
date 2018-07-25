@@ -1,6 +1,4 @@
-package com.example.dixitjain.myapplication;
-
-
+package com.example.dixitjain.myapplication.Model;
 
 public class FindPrimeNumber extends CollectionofMethods {
 
@@ -8,7 +6,7 @@ public class FindPrimeNumber extends CollectionofMethods {
 
 
     // Constructor
-    FindPrimeNumber(){
+    public FindPrimeNumber(){
 
     }
 

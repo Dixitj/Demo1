@@ -1,4 +1,4 @@
-package com.example.dixitjain.myapplication;
+package com.example.dixitjain.myapplication.Model;
 
 
 

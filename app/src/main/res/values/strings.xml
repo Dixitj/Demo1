@@ -2,11 +2,13 @@
     <string name="app_name">My Application</string>
     <string name="title_activity_home_screen">HomeScreen</string>
     <string name="add">Add</string>
-    <string name="find">Find</string>
+    <string name="find1">Find</string>
     <string name="binary">Binary</string>
     <string name="add_or_search_elements_in_array">Add or Search Elements in Array</string>
     <string name="primenumber">PrimeNumber</string>
     <string name="search">Search</string>
+    <string name="find">Find</string>
+    <string name="enter_a_number">Enter a number</string>
 
 
 </resources>
